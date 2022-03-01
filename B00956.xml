@@ -1,0 +1,179 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter of a baker of Boulougne, sent to the pope. Translated out of the Italian copy (printed at Florence) into French and Dutch and now into English..</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1607</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B00956</idno>
+            <idno type="STC">STC 3218.7</idno>
+            <idno type="STC">ESTC S91128</idno>
+            <idno type="EEBO-CITATION">56572817</idno>
+            <idno type="OCLC">ocm 56572817</idno>
+            <idno type="VID">180923</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B00956)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 180923)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 2145:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter of a baker of Boulougne, sent to the pope. Translated out of the Italian copy (printed at Florence) into French and Dutch and now into English..</title>
+               </titleStmt>
+               <extent>[13] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for William Ferebrand, and are to bee solde at his Shop in the Popes-head Pallace neere the Royall Exchange.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1607..</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Head-pieces, initial; printers' device on t.p. (McK. 270?).</note>
+                  <note>Imperfect: faded.</note>
+                  <note>Reproduction of original in: Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Anti-Catholicism --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:180923:1"/>
+            <!-- PDF PAGE 94 -->
+            <pb facs="tcp:180923:1"/>
+            <!-- PDF PAGE 94 -->
+            <figure/>
+            <p>A LETTER of a Baker of <hi>Boulougne,</hi> ſent to the Pope.</p>
+            <p>Tranſlated out of the Italian Copy <hi>(printed at Florence) into French and Dutch and now into Engliſh,</hi>
+            </p>
+            <figure>
+               <q>
+                  <unclear>IN DOMINO CONFIDO</unclear>
+               </q>
+               <figDesc>printer's or publisher's device</figDesc>
+            </figure>
+            <p>
+               <hi>LONDON</hi> Printed for William Ferebrand, and are to bee ſolde at his Shop in the Popes<g ref="char:punc">▪</g> head-Pallace neere the Royall Exchange. 1607.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:180923:2"/>
+            <!-- PDF PAGE 95 -->
+            <pb n="1" facs="tcp:180923:2"/>
+            <!-- PDF PAGE 95 -->
+            <head>A LETTER OF a Baker of <hi>Boloigne ſent to</hi> the Pope</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">B</seg>Ehold Maiſter</hi> Pope, wee haue had wonderfull greate windes without anye raine, and I am verily perſwaded that the clowde wherein your Thunderbolt was encloſed was not well compriſed, to make the clap ſound vpon the earth; or elſe,
+<pb facs="tcp:180923:3"/>
+               <!-- PDF PAGE 96 -->that the <hi>Venetian</hi> water was of ſo great vertue, y<hi rend="sup">t</hi> it extinguiſhed or quencht the fire that threatned to burne and conſume all <hi>Italie:</hi> But it may be, that therein you immi<g ref="char:EOLhyphen"/>tated <hi>Iupiter</hi> (of whome you holde the Capitol) and gaue out many threatning wordes, but durſt not ſtrike: contenting your ſelfe to ſhowe what your <hi>Cyclops</hi> can doe, without making proofe thereof vpon mens heads: which I be<g ref="char:EOLhyphen"/>leeue to be true, if they had ſought by prayers and Oblations to mollifie and appeaſe your wrath and furious diſpleaſure, and not by obſtinate contempt, or rather (as many men reporte) by an aſſu<g ref="char:EOLhyphen"/>red conſtancie, which the <hi>Venetians</hi> haue ſhewed in their iuſt &amp; right<g ref="char:EOLhyphen"/>full cauſe. But ſhall I tell you what I thinke? I am of opinion
+<pb facs="tcp:180923:3"/>
+               <!-- PDF PAGE 96 -->that you feared that the promiſes and the faith of the Spanyards are not ſo ſmoothe as their faces: and that the <hi>Venetians</hi> ſhold haue ceazed on <hi>Boulougne,</hi> with other places of y<hi rend="sup">e</hi> Churches patrimony, they would make as honeſt and good agreement with them, as they haue lately made with the newe Commonwealth of <hi>Holland.</hi> Let them ſay what they will of you Maiſter Pope: for my part I perceiue and finde, that you haue done greate good vnto our holy Mother the Church, by diſputa<g ref="char:EOLhyphen"/>tion mooued &amp; ſtirred vp between you and the <hi>Venetians:</hi> In times paſt, there was none but the wic<g ref="char:EOLhyphen"/>ked and peſtiferous Huguenots which diſputed and enueighed a<g ref="char:EOLhyphen"/>gainſt the holy Seat of <hi>Rome,</hi> and would by no meanes acknow<g ref="char:EOLhyphen"/>ledge
+<pb facs="tcp:180923:4"/>
+               <!-- PDF PAGE 97 -->any of Saint <hi>Peters</hi> ſwordes to belong vnto you: but now at this time they are your own natu<g ref="char:EOLunhyphen"/>ral childre<g ref="char:cmbAbbrStroke">̄</g>, your te<g ref="char:cmbAbbrStroke">̄</g>der &amp; moſt deer<g ref="char:EOLhyphen"/>ly belooued friendes, who percei<g ref="char:EOLhyphen"/>uing you to be too much burden<g ref="char:EOLhyphen"/>ned &amp; ouerlade<g ref="char:cmbAbbrStroke">̄</g> by bearing of two ſwords, haue pulled out of your hands the one, which is called the temporall Sword, and ſo dul<g ref="char:EOLhyphen"/>led and blunted the other, that from hence-foorth, it ſhall not cut but in meaſure and reaſon: But to remedy the matter, if you will follow my counſell, you ſhall doe wel and wiſely to excommunicate all Princes and Potentates of Chriſtendome, and to giue their Realms and Dominions to thoſe that haue the beſt Mittens to lay holde of the Catte: But I will tell you what will fall out there<g ref="char:EOLhyphen"/>upon:
+<pb facs="tcp:180923:4"/>
+               <!-- PDF PAGE 97 -->they will all flatlye make anſwer that they wil do nothing, and tell you plainly, that it is not in your power, to take that from them which you neuer gaue them. And to that ende, they will cauſe Acts of Parliaments to be con<g ref="char:EOLhyphen"/>firmed and ratified within their States and Dominions, and re<g ref="char:EOLhyphen"/>cord it as a Decree, or <hi>Re iudicata</hi> for all poſterities: and ſo you may ſit downe vpon your taile with al your Pretences, and take your eaſe, whilſt men come to kiſſe your feete, and ſo that ſolemne diſputa<g ref="char:EOLhyphen"/>tion ſhall bee ended in your time, without taking any great paines to aſſemble a generall Councell, to tell both you and my Lorde <hi>Bellarmine,</hi> that it is not a matter of Breuiaries to gouern and com<g ref="char:EOLhyphen"/>maund kingdomes: and that you haue no more authoritie to med<g ref="char:EOLhyphen"/>dle with y<hi rend="sup">e</hi> Temporall power of
+<pb facs="tcp:180923:5"/>
+               <!-- PDF PAGE 98 -->Princes, then you would haue them to intermeddle with your ſpirituall gouernment. No doubt it will procure great good vnto your ſeate, and ſomewhat abate the papall inſolencies and threat<g ref="char:EOLhyphen"/>nings, and by that meanes put <hi>Rome</hi> out of a great fear, and con<g ref="char:EOLhyphen"/>ſequently bereaue it of the hate of many men.</p>
+            <p>Touching the <hi>Venetians,</hi> by whom ſo notable and memorable an enterpriſe hath been begun, I am ſure, that you for your part will iudge and eſteeme them to be worthy of a pardon and diſpenſa<g ref="char:EOLhyphen"/>tion, to go into paradice, or to hell: and that they may lawfully here<g ref="char:EOLhyphen"/>after bear in their ſhield of armes, a great paire of Sheeres, to wit<g ref="char:EOLhyphen"/>neſſe to all poſteritie, that they were the firſt (among your faith<g ref="char:EOLhyphen"/>full Maſſe-mongers) that durſt curtall and clippe your garment,
+<pb facs="tcp:180923:5"/>
+               <!-- PDF PAGE 98 -->which dagled too long on the ground. I counſelled you before, to giue al the Kingdoms &amp; Dominions of y<hi rend="sup">e</hi> princes of Chriſtendome as a pray vnto their enemies: to the end that they may all flatly and plainely tell you, that they wil not daunce after ſuch vnpleaſant muſick. And if you will beleeue me, you ſhall firſt begin with the houſe of <hi>Au<g ref="char:EOLhyphen"/>ſtria:</hi> and yet I am content that your eares ſhould be cut off, if you doe not finde that it is not Catholike in that point. It is chiefly deuided into three heades: as the Emperor, the King of <hi>Spaine,</hi> and the Arehduke <hi>Albertus:</hi> and in which of them (I pray you) doe you not finde iuſt occaſion of depoſition?</p>
+            <p>Touching y<hi rend="sup">e</hi> Emperor, he hath made you the Turks Grandfather, taking him for his Son, and is ſo much buſied with his Mathematicia<g ref="char:cmbAbbrStroke">̄</g>s, to take the meaſure and compaſſe of the heauens, that he forgetteth and neglecteth his gouernment on the earth<g ref="char:punc">▪</g> Is not this
+<pb facs="tcp:180923:6"/>
+               <!-- PDF PAGE 99 -->ſufficient to depoſe him, &amp; to raiſe the Duke of <hi>Bauaire</hi> in his place, as your predeceſſors in times paſt ſought to doe?</p>
+            <p>As for the King of Spaine, he is al<g ref="char:EOLhyphen"/>ready abſolutly excommunicated, <hi>ipſo facto:</hi> for retaining and witholding <hi>Sci<g ref="char:EOLhyphen"/>cilia,</hi> and your noble kingdom of <hi>Naples</hi> from you. Aſke <hi>Baronius</hi> counſell, and I am aſſured that he will tel you that you may lawfully kill and eat him (ac<g ref="char:EOLhyphen"/>cording to the commaundement giuen by God vnto S. <hi>Peter</hi>) &amp; though it were in the middle of Lent: and ſuppoſe I pray you, what ioy &amp; pleaſure it wold be to that good old man, if he could as well take the Crowne from the King of <hi>Spaines</hi> head, as the King of <hi>Spain</hi> tooke your place from him?</p>
+            <p>There reſteth nothing now but to deale with y<hi rend="sup">t</hi> Arch-duke <hi>Albertus,</hi> that durſt be ſo bolde, to make a truce, &amp; to procure a peace with the Heretickes of <hi>Holla<g ref="char:cmbAbbrStroke">̄</g>d:</hi> it is not that a ſufficient crime,
+<pb facs="tcp:180923:6"/>
+               <!-- PDF PAGE 99 -->and a greate offence to incur your ſen<g ref="char:EOLhyphen"/>tence of diſpleaſure? but if you thinke good to ſpare him, in regard of his an<g ref="char:EOLhyphen"/>cient prieſt-hood, yet you muſt at the leaſt excommunicate <hi>Spinolaes</hi> purſſe, which is one of the greateſt cauſes of this conuention: but I am verily per<g ref="char:EOLhyphen"/>ſwaded, that at your commandement the Archduke wil alwaies find occa<g ref="char:EOLhyphen"/>ſion to renew the warre: as firſt, that faith ought not be kept and obſerued with Heretickes: and ſecondly, that a prince cannot infranchiſe his ſubiects, &amp; renounce his ſuperioritie ouer them to the preiudice of the eſtate of him &amp; his ſucceſſors: beſides that, there may be a kinde of equiuocation, or mentall reſeruation of ſome words vſed in the making of the treatie of peace: A<g ref="char:EOLhyphen"/>gaine, it is lawfull at al times to make war for our holy mother the Church: &amp; to conclude, the Spaniard will not care greatly to proue periured for his owne profit and commodity.</p>
+            <p>
+               <pb facs="tcp:180923:7"/>
+               <!-- PDF PAGE 100 -->
+When you haue excommunicated all theſe of the houſe of <hi>Auſtria,</hi> then you muſt ſet vpon the King of <hi>France,</hi> &amp; you may find matter enough to be offended and to take diſpleaſure againſt him, &amp; he meanes enough not to care much for it, and to ſend you bull for bull, let<g ref="char:EOLhyphen"/>ter for letter and if you wil, two blows for one: and finally to proceed to my in<g ref="char:EOLhyphen"/>tent, he wil take an oath of all his ſub<g ref="char:EOLhyphen"/>iects (ſpecially the Prieſtes) that they ſhall neither beleeue nor teach, that the Pope can directly or indirectly, nor by right or wrong, neither yet by the head or the foot, depoſe a lawful king out of his Throane.</p>
+            <p>But now we come to another great matter, &amp; the queſtion conſiſteth herin, what wee ſhall doe with the king of <hi>England?</hi> for aſſure your ſelfe, hee is not for you, &amp; which is worſe you ſhall not find much matter to lay holde vpon touching him, nor his royall procee<g ref="char:EOLhyphen"/>dings; I am perſwaded that the beſt
+<pb facs="tcp:180923:7"/>
+               <!-- PDF PAGE 100 -->way for you will be to let him alone, or elſe that you procure his friendſhip &amp; that you wholy renounce all ſuperio<g ref="char:EOLhyphen"/>rity ouer him, as the Spaniard hath done to thoſe of <hi>Holland:</hi> and in regard therof, he wil make you a great preſent of all the Prieſtes and Ieſuites in his country, which he will ſend vnto you to <hi>Rome:</hi> and becauſe that <hi>England</hi> is interdicted, hee will procure that you ſhall be obeyed in that point, and that the Maſſe ſhall be no more vſed in his Dominions.</p>
+            <p>This maiſter pope I thought ne<g ref="char:EOLhyphen"/>ceſſary to be written vnto you, pray<g ref="char:EOLhyphen"/>ing you to ſend me good ſtore of holy Medales, but I wold haue them al of pure &amp; fine golde, or elſe they will doe me but ſmall pleaſure: Farewell.</p>
+            <closer>
+               <dateline>From my Bakehouſe in Boulougne, <date>vpon this good Sunday, of Quaſimodo.</date>
+               </dateline>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:180923:8"/>
+            <!-- PDF PAGE 101 -->
+            <pb facs="tcp:180923:8"/>
+            <!-- PDF PAGE 101 -->
+         </div>
+      </body>
+   </text>
+</TEI>
